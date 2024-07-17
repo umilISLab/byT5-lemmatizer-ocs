@@ -1,0 +1,6 @@
+datasets
+evaluate
+pandas
+tqdm
+transformers
+# wandb
