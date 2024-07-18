@@ -1,8 +1,9 @@
-datasets
-evaluate
+accelerate==0.32.1
+datasets==2.20.0
+evaluate==0.4.2
 pandas
 tqdm
-# transformers
+# transformers==4.42.4
 # transformers @ git+https://github.com/huggingface/transformers
 transformers @ git+https://github.com/katherine-atwell/transformers@revert-1-update-generator-device
 # wandb
