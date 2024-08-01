@@ -3,7 +3,7 @@ datasets
 evaluate
 pandas
 tqdm
-transformers==4.42.4
+transformers==4.43.3
 # transformers @ git+https://github.com/huggingface/transformers
 # transformers @ git+https://github.com/katherine-atwell/transformers@revert-1-update-generator-device
 # wandb
