@@ -9,4 +9,7 @@ annot_len = 10
 checkpoint_name = "byT5-ocs-38"
 
 device = "cuda"
-# device = "cpu"
+#device = "cpu"
+
+batch_size=8
+token_len=16
